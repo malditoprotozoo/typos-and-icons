@@ -34,8 +34,9 @@ h4:hover {
 }
 
 .boxes:hover {
-	font-size: 1.3em;
+	font-size: 1.2em;
 	color: #AABBD9;
+	box-shadow: 3px 3px 3px grey;
 }
 
 h1, h2 {
